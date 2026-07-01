@@ -6,3 +6,4 @@ __pycache__/
 *.pyc
 reports/metrics.json
 reports/final_report.md
+venv/
